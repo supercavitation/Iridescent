@@ -29,14 +29,14 @@
   },
   {
     "speciesId": "charjabug",
-    "fastMove": "VOLT_SWITCH",
+    "fastMove": "BUG_BITE",
     "chargedMoves": ["X_SCISSOR","CRUNCH"],
     "weight": 3
   },
   {
     "speciesId": "cherrim_sunny",
     "fastMove": "BULLET_SEED",
-    "chargedMoves": ["WEATHER_BALL_FIRE","SOLAR_BEAM"],
+    "chargedMoves": ["WEATHER_BALL_FIRE","DAZZLING_GLEAM"],
     "weight": 1
   },
   {
@@ -48,7 +48,7 @@
   {
     "speciesId": "claydol",
     "fastMove": "MUD_SLAP",
-    "chargedMoves": ["ICE_BEAM","SHADOW_BALL"],
+    "chargedMoves": ["ROCK_TOMB","SHADOW_BALL"],
     "weight": 1
   },
   {
@@ -60,8 +60,8 @@
   {
     "speciesId": "cradily",
     "fastMove": "BULLET_SEED",
-    "chargedMoves": ["GRASS_KNOT","STONE_EDGE"],
-    "weight": 1
+    "chargedMoves": ["GRASS_KNOT","ROCK_TOMB"],
+    "weight": 8
   },
   {
     "speciesId": "crustle",
@@ -113,7 +113,7 @@
   {
     "speciesId": "florges",
     "fastMove": "FAIRY_WIND",
-    "chargedMoves": ["DISARMING_VOICE","MOONBLAST"],
+    "chargedMoves": ["TRAILBLAZE","MOONBLAST"],
     "weight": 6
   },
   {
@@ -322,7 +322,7 @@
   {
     "speciesId": "swampert",
     "fastMove": "MUD_SHOT",
-    "chargedMoves": ["HYDRO_CANNON","SLUDGE_WAVE"],
+    "chargedMoves": ["HYDRO_CANNON","SLUDGE"],
     "weight": 1
   },
   {
@@ -338,7 +338,8 @@
   },
   {
     "speciesId": "torterra",
-    "chargedMoves": ["FRENZY_PLANT","STONE_EDGE"],
+    "fastMove": "BITE",
+    "chargedMoves": ["SAND_TOMB","STONE_EDGE"],
     "weight": 1
   },
   {
